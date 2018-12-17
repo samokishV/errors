@@ -1,0 +1,6 @@
+2018-12-16 22:15:35 My Exception E_ALL  Error on line 48 in C:\wamp\www\4_my_exception.php #0 C:\wamp\www\4_my_exception.php(51): my()
+#1 {main}
+2018-12-16 22:17:23 Function domy is not callable E_ALL  Error on line 34 in C:\wamp\www\4_standart_exceptions.php #0 C:\wamp\www\4_standart_exceptions.php(48): foo('my')
+#1 {main}
+2018-12-16 22:17:23 One of the parameters is not a number E_ALL  Error on line 55 in C:\wamp\www\4_standart_exceptions.php #0 C:\wamp\www\4_standart_exceptions.php(69): division('a', 1)
+#1 {main}

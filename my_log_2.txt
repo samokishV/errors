@@ -1,0 +1,8 @@
+2018-12-16 17:12:46 It is impossible to divide by zero E_USER_WARNING  Error on line 55 in C:\wamp\www\2_e_user.php  #0  myErrorHandler(512, It is impossible to divide by zero, C:\wamp\www\2_e_user.php, 55, Array ([a] => 10,[b] => 0))
+#1  trigger_error(It is impossible to divide by zero, 512) called at [C:\wamp\www\2_e_user.php:55]
+#2  division(10, 0) called at [C:\wamp\www\2_e_user.php:63]
+
+2018-12-16 17:12:46 One of the parameters is not a number E_USER_ERROR  Error on line 51 in C:\wamp\www\2_e_user.php  #0  myErrorHandler(256, One of the parameters is not a number, C:\wamp\www\2_e_user.php, 51, Array ([a] => à,[b] => 10))
+#1  trigger_error(One of the parameters is not a number, 256) called at [C:\wamp\www\2_e_user.php:51]
+#2  division(à, 10) called at [C:\wamp\www\2_e_user.php:64]
+

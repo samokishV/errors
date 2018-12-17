@@ -1,0 +1,2 @@
+2018-12-16 17:52:29 The password contains too few characters E_USER_WARNING  Error on line 44 in C:\wamp\www\3_set_exception_handler.php #0 C:\wamp\www\3_set_exception_handler.php(49): passwordLen('abc')
+#1 {main}

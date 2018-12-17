@@ -1,0 +1,4 @@
+2018-12-16 16:46:37 A custom error has been triggered E_USER_NOTICE  Error on line 51 in C:\wamp\www\1_set_error_handler.php  #0  myErrorHandler(1024, A custom error has been triggered, C:\wamp\www\1_set_error_handler.php, 51, Array ([test] => 2))
+#1  trigger_error(A custom error has been triggered) called at [C:\wamp\www\1_set_error_handler.php:51]
+#2  test(2) called at [C:\wamp\www\1_set_error_handler.php:55]
+
